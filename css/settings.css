@@ -1189,7 +1189,7 @@ img.tp-slider-alternative-image	{
 .tp-bannertimer					{	background:#000; background:rgba(0,0,0,0.15); height:5px;}
 
 
-.tparrows						{	cursor:pointer; background:transparent; border: 2px solid #ccd0d4; border-radius: 5px; width:55px;height:55px;position:absolute; display:block; z-index:1000; }
+.tparrows						{	cursor:pointer; background:transparent; border: 2px solid #ccd0d4; border-radius: 5px; width:55px;height:55px;position:absolute; display:none; z-index:1000; }
 .tparrows:hover 				{	background:transparent;}
 .tparrows:before				{	font-family: "revicons"; font-size:15px; color:#fff; display:block; line-height: 55px; text-align: center;}
 .tparrows.tp-leftarrow:before	{	content: '\e824'; }
