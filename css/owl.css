@@ -216,7 +216,7 @@
 }
 
 .owl-theme .owl-controls {
-	  display:block;
+	  display:none;
 }
 .owl-theme .owl-controls .owl-nav [class*="owl-"] {
     background: transparent;
